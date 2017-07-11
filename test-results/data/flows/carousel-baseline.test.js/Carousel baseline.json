@@ -1,0 +1,1 @@
+{"name":"Carousel baseline","isBranchRoot":true,"isDecisionRoot":true,"children":[{"name":"Go to the carousel page","isStep":true,"children":[{"name":"Click the right button","isStep":true,"children":[{"name":"Click the share button","isStep":true,"children":[],"screenshot":"/flows/carousel-baseline.test.js/Carousel baseline/Click the share button.png"}]}]}]}

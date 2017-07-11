@@ -1,0 +1,5 @@
+<testsuite name="[/Users/daniellu/dev/phantomflowtest/test-results/visuals/flows/carousel-baseline.test.js.phantomcss] Carousel baseline" tests="1" failures="1">
+  <testcase classname="Click the share button" name="PhantomCSS /Users/daniellu/dev/phantomflowtest/test-results/visuals/flows/carousel-baseline.test.js/Carousel baseline/Click the share button.png">
+    <failure type="fail">explicit call to fail()</failure>
+  </testcase>
+</testsuite>
